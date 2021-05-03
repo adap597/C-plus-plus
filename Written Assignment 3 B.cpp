@@ -1,3 +1,31 @@
+/*Create a SavingsAccount class. Use a static data member annualInterestRate to store the annual interest rate for each of the savers. 
+Each member of the class contains a private data member savingsBalance indicating the amount the saver currently has on deposit. 
+Provide member function calculateMonthlyInterest that calculates the monthly interest by multiplying the savingsBalance by annualInterestRate divided by 12; 
+this interest should be added to savingsBalance. Provide a static member function modifyInterestRate that sets the static annualInterestRate to a new value.
+
+Write a main program to test your class. Your program should prompt the user to enter the savingsBalance for two different accounts. 
+It should ask for the annualInterestRate.  It should then compute and print the new balance for both the accounts. A sample run would be:
+
+Please enter the savings balance of account 1: 2000
+Please enter the savings balance of account 2: 3000
+
+Please enter the annual interest rate: 3
+
+The interest for account 1 would be $5.00 and the balance after one month would be $2005.00
+The interest for account 2 would be $7.50 and the balance after one month would be $3007.50
+
+Would you like to change the interest rate? (Y or N): Y
+
+Please enter the annual interest rate: 6
+
+The interest for account 1 would be $10.00 and the balance after one month would be $2010.00
+The interest for account 2 would be $15.00 and the balance after one month would be $3015.00
+
+Would you like to change the interest rate? (Y or N): N
+
+Goodbye!
+*/
+
 /*Written Assignment 3 B.cpp : Test the SavingsAccount Header file. Accepts user input of current savings account balances and current Annual interest rate.
 *Calculates monthly interest rate.
 *Calculates total interest to be applied after 1 month
@@ -6,8 +34,6 @@
 *Gives user the option to change the interest rate, and runs new calculations based on the new rate
 */
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

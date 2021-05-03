@@ -1,8 +1,7 @@
+//Used in Comprehensive 3
 //Class Revenue definition. Calculates revenue based on formula (demand * price).Values for demand and price are given in the 
 //main function.
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

@@ -1,6 +1,10 @@
+/*Reimplement class Array from Figs. 10.10—10.11 of the textbook as a class template. Also write a main driver program that:
+
+Asks the user for integer values, stores them in an integer Array, and then prints the values stored in the integer Array
+Asks the user for string values, stores them in a string Array, and then prints the values stored in the string Array
+*/
+
 // Written Assignment 5 B.cpp 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

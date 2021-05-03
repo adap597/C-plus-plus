@@ -1,8 +1,35 @@
+/*Write a program that reads a given file, and then outputs the contents of it to another file. 
+It should also print out the number of lines and the number of times each alphabetic character appears (regardless of case) 
+in the input file at the end of the output file. It should prompt the user for the input and output file names. For example, if the input file contains:
+
+This is just a test.
+
+Some more text is needed.
+
+Then the output file should contain:
+
+This is just a test.
+
+Some more text is needed.
+
+The number of lines in the input file is 3.
+
+A appears 1 times.
+D appears 2 times.
+E appears 6 times.
+I appears 3 times.
+M appears 1 times.
+N appears 1 times.
+O appears 2 times.
+R appears 1 times.
+S appears 6 times.
+T appears 6 times.
+U appears 1 times.
+X appears 1 times.
+*/
+
 //Written Assignment 6 A
 //This program reads an input file, counts the number of characters and lines, then displays the results in the output file. 
-
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

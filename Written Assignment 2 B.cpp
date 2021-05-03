@@ -1,3 +1,25 @@
+/*Design and run a program that takes a numerical score and outputs a letter grade. 
+Specific numerical scores and letter grades are listed below:
+
+In this program, create two void functions titled getScore and printGrade with an int argument. 
+The function getScore should have a Reference parameter and printGrade should have a Value parameter.
+
+90-100 = Grade A
+
+80-89 = Grade B
+
+70-79 = Grade C
+
+60-69 = Grade D
+
+0-59 = Grade F
+
+The function getScore will prompt the user for the numerical score, get the input from the user, and print the numerical score. 
+The function printGrade will calculate the course grade and print the course grade. 
+(Be careful and note that the assignment requires you to input the grade into getScore and not directly into the main function.)
+Do not forget to put in the proper prompts and appropriate output messages. You should use the switch statement introduced in Chapter 5 to implement it.
+*/
+
 /* Written Assignment 2 B.cpp : This program accepts user input of a numerical grade between 0 and 100, then displays
 * the letter grade. There is some user input validation to check if the number entered is in range and if a character
 * or symbol was entered. However, there is a bug in the switch statement. The initial error checking in the if statement 
@@ -6,8 +28,6 @@
 * character, it validates to 0 and F grade.
 */
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

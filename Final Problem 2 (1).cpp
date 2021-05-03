@@ -1,6 +1,4 @@
 // Final Problem 2.cpp : 
-////Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

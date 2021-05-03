@@ -1,8 +1,7 @@
+//Used in Assignment 3A 
 //Class Complex definition. Performs addition and subtraction of complex numbers. The real parts of the complex
 //number are added and subtracted. The imaginary parts of the complex number are added and subtracted. 
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

@@ -1,7 +1,15 @@
+/*Write a program using a function and a series of if…else statements. 
+The user should be prompted to enter a whole number in main in the range 1–5. 
+The function is called and the number entered is passed to the function. 
+This function parameter will then be used in a series of if…else statements to discover and print 
+out the number word within the function (for example, 1=one, 2=two, 3=three, etc.).
+
+Enter a number in the range 1–5: 1
+You entered the number one.
+*/
+
 // Assignment 1 B.cpp : This program accepts user input of an integer between 1 and 5, then
 //prints out the number word. It also displays an error message if the input is not within specified parameters.
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

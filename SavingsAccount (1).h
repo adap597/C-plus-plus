@@ -1,4 +1,4 @@
-//Used in Assignment 4 B
+//Used in Assignment 4B and 5A
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

@@ -1,6 +1,24 @@
+/*Create a program to determine the largest and smallest number out of 15 numbers entered (numbers entered one at a time). 
+This should be done in a function using this prototype:
+
+double larger (double x, double y);
+
+Make sure you use a for loop expression inside your function.
+
+Enter 15 numbers
+11 67 99 2 2 6 8 9 25 67 7 55 27 1 1
+The largest number is 99
+
+Hints:
+
+Read the first number of the data set. Because this is the only number read to this point, you may assume that it is the largest number so far and call it max.
+Read the second number and call it num. Now compare max and num, and store the larger number into max. Now max contains the larger of the first two numbers.
+Read the third number. Compare it with max and store the larger number into max.
+At this point, max contains the largest of the first three numbers. Read the next number, compare it with max, and store the larger into max.
+Repeat this process for each remaining number in the data set using a for expression
+*/
+
 // Assignment 1.cpp : This program accepts user input of 15 integers and returns the largest integer entered. 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

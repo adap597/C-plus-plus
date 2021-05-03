@@ -1,5 +1,4 @@
-//Name: Aurora DiPeso
-//University ID: 0663597
+//Used in Final Problem 5
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

@@ -1,9 +1,7 @@
 // Final Problem 4.cpp : This program accepts user input of integers (2 int and 2 long). The values
 //of each int and each long are interchanged. The results are output to a txt file. The content
 //of the text file is displayed in the console for verification purposes. 
-//
-//Name: Aurora DiPeso
-//University ID: 0663597
+
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

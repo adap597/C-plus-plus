@@ -3,9 +3,7 @@
 //The first contender to reach the finish line (a variable = to 70) is the winner. As each contender moves
 //a variable is incremented to keep track of their progress. The program uses pointers to access each variable.
 //It also prints each contenders current position in the console window.
-//
-//Name: Aurora DiPeso
-//University ID: 0663597
+
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

@@ -1,7 +1,6 @@
+//Used in Assignment 4 B
 //Derived classes Savings and Checking Account
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

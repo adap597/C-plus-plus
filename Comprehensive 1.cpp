@@ -1,11 +1,20 @@
+/*You have 10 lowercase letters that you would like to arrange in alphabetical order. 
+Create a program to determine the first letter in alphabetical order out of the 10 letters entered. 
+(Please have your program enter the 10 letters one at a time.) This should be done in a function using this prototype:
+
+char firstletter (char x, char y);
+
+Make sure you use a for loop expression inside your function. (Hint: you can order letters using ASCII code, for example, a < c.)               
+
+Output should display the appropriate letter, as well as the associated ASCII code.
+*/
+
 // Comprehensive 1.cpp : This program accepts user input of 10 lowercase letters. It then determines
 //the first letter in alphabetical order that was entered and displays the letter and its ASCII value 
 //in the console. If the user inputs a symbol or number, depending on the ASCII value of the input, the symbol
 //or number will be displayed as the first "letter". A future improvement to the program could validate if the 
 //user entered an alphabetic character. 
-//
-//Name: Aurora DiPeso
-//University ID: 0663597
+
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

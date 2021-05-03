@@ -1,7 +1,17 @@
+/*Create a Rational Number (fractions) class like the one in Exercise 9.6 of the textbook. Provide the following capabilities:
+
+Create a constructor that prevents a 0 denominator in a fraction, reduces or simplifies fractions (by dividing the numerator and the 
+denominator by their greatest common divisor) that are not in reduced form, and avoids negative denominators.
+Overload the addition, subtraction, multiplication, and division operators for this class.
+Overload the relational and equality operators for this class.
+Provide a function that returns the string representation of the rational number in the form a/b, 
+where a is the numerator and b is the denominator.
+Provide a function that returns the rational number as a double.
+Also provide a main program to test your class. 
+*/
+
 //Program to test the Rational Number header file.
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

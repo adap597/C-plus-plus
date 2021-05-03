@@ -1,9 +1,7 @@
 // Final Problem 3.cpp : This program reads data from a file, counts the number of characters in each word
 //then writes the character counts to an output file. The contents of the input and output file are displayed in the console to 
 //verify the program worked properly without having to open the txt files.
-//
-//Name: Aurora DiPeso
-//University ID: 0663597
+
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009

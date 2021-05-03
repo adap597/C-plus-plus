@@ -1,9 +1,8 @@
+//Used in Assignment 6B
 //Exception class DivByZero
 //will throw error if the denominator is zero 
 //and divide the two integers if the denominator is not zero, returning the quotient
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C++ Programming (COS-213)
 //Section no. OL009
